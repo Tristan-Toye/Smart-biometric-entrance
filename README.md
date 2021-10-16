@@ -1,4 +1,5 @@
 # This project is still in development!
+This project is presented by the KULeuven as a project part of the course P&03. 
 *** ***
 # Smart-biometrcis-entrance
 We aim to make a project with biometric authentication linked to an sql database and an online website using pythonanywhere.
