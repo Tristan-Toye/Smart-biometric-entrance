@@ -1,4 +1,4 @@
-# This project is still in development!
+# Smart Biometric Entrance 
 This project is presented by the KULeuven as a project part of the course P&03. 
 *** ***
 # Smart-biometrcis-entrance
